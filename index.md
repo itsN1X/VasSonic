@@ -29,7 +29,7 @@
 
 Pic 1: Before Using VasSonic |  Pic 2: After Using VasSonic
 :-------------------------:|:-------------------------:
-![default mode][1]  |  ![VasSonic mode][2]
+![default mode](https://raw.githubusercontent.com/Tencent/VasSonic/master/assets/20170705120005424.gif)  |  ![VasSonic mode](https://raw.githubusercontent.com/Tencent/VasSonic/master/assets/20170705120029897.gif)
 
 ## Getting started
 
